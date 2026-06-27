@@ -1,6 +1,6 @@
 # A Pipeline for Exoplanet Detection and Characterization Using TESS Space Photometry
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1i4WlNTO_PiYi3ADGn-oKb-Ce_b8GJYjH?authuser=2))]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i4WlNTO_PiYi3ADGn-oKb-Ce_b8GJYjH?authuser=2)
 
 ## Abstract
 This repository features an automated Python pipeline developed to analyze public space photometry data from NASA's Transiting Exoplanet Survey Satellite (TESS). By implementing the Box Least Squares (BLS) algorithm coupled with an adaptive digital filtering framework, the pipeline isolates periodic transit signals. A rigorous manual vetting protocol was established to mitigate instrumental artifacts and geometric false positives. 
